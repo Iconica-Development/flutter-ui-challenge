@@ -10,3 +10,4 @@ Create a PR to add your submissions's code or link to a public repo containing y
 - [Jorian](https://bitbucket.org/JorianIconica/lamp/src/master/)
 
 ## Challenge 4: [Movie watch app](https://dribbble.com/shots/18632188-Movie-App)
+- [Freek](https://github.com/freekvandeven/flutter-movie-app)
