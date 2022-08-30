@@ -11,3 +11,5 @@ Create a PR to add your submissions's code or link to a public repo containing y
 
 ## Challenge 4: [Movie watch app](https://dribbble.com/shots/18632188-Movie-App)
 - [Freek](https://github.com/freekvandeven/flutter-movie-app)
+
+## Challenge 5: [Event Management App Interaction](https://dribbble.com/shots/15829028-Event-Management-App-Interaction)
