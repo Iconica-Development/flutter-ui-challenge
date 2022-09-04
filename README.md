@@ -8,6 +8,7 @@ Create a PR to add your submissions's code or link to a public repo containing y
 
 ## Challenge 3: [Lamp app](https://miro.medium.com/proxy/1*gsIwEEMEdeANsjLy1gc0NA.gif)
 - [Jorian](https://bitbucket.org/JorianIconica/lamp/src/master/)
+- [Freek](https://github.com/freekvandeven/flutter_lamp)
 
 ## Challenge 4: [Movie watch app](https://dribbble.com/shots/18632188-Movie-App)
 - [Freek](https://github.com/freekvandeven/flutter-movie-app)
