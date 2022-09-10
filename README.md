@@ -14,3 +14,4 @@ Create a PR to add your submissions's code or link to a public repo containing y
 - [Freek](https://github.com/freekvandeven/flutter-movie-app)
 
 ## Challenge 5: [Event Management App Interaction](https://dribbble.com/shots/15829028-Event-Management-App-Interaction)
+- [Freek](https://github.com/freekvandeven/flutter_event_management_app)
