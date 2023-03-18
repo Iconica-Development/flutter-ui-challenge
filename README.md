@@ -15,3 +15,6 @@ Create a PR to add your submissions's code or link to a public repo containing y
 
 ## Challenge 5: [Event Management App Interaction](https://dribbble.com/shots/15829028-Event-Management-App-Interaction)
 - [Freek](https://github.com/freekvandeven/flutter_event_management_app)
+
+## Challenge 6: [Planet App](https://miro.medium.com/v2/resize:fit:720/1*SX8KX4kZCywwbhGV9qpaiw.gif)
+- [Freek](https://github.com/freekvandeven/planet_inspector)
